@@ -1,0 +1,11 @@
+Model Information:
+* title:	CrossingRoad
+* source:	https://sketchfab.com/3d-models/crossingroad-a60fad6ab0234a0f8ea8cfb1bb561efe
+* author:	I am Cassia (https://sketchfab.com/iamCassia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CrossingRoad" (https://sketchfab.com/3d-models/crossingroad-a60fad6ab0234a0f8ea8cfb1bb561efe) by I am Cassia (https://sketchfab.com/iamCassia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

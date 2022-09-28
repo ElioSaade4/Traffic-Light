@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular Roads for prototyping
+* source:	https://sketchfab.com/3d-models/modular-roads-for-prototyping-707f3daf372b4afcb104afe2759eab93
+* author:	MCStudios (https://sketchfab.com/mcstudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular Roads for prototyping" (https://sketchfab.com/3d-models/modular-roads-for-prototyping-707f3daf372b4afcb104afe2759eab93) by MCStudios (https://sketchfab.com/mcstudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

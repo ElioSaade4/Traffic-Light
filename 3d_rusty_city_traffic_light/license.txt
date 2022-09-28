@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Rusty City Traffic Light
+* source:	https://sketchfab.com/3d-models/3d-rusty-city-traffic-light-1f7bfa9e0dac4ad79f0977880cf24b6d
+* author:	tayagrebu (https://sketchfab.com/tayagrebu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Rusty City Traffic Light" (https://sketchfab.com/3d-models/3d-rusty-city-traffic-light-1f7bfa9e0dac4ad79f0977880cf24b6d) by tayagrebu (https://sketchfab.com/tayagrebu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
